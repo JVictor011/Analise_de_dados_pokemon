@@ -34,4 +34,4 @@ Este projeto se concentra na an√°lise dos dados da Pokedex, que incluem informa√
 
 ## Autor
 
-JVictor011
+[JVictor011](https://github.com/JVictor011)
